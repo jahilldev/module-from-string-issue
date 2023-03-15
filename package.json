@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jahilldev/module-from-string-issue#readme",
   "dependencies": {
-    "module-from-string": "^3.3.0"
+    "module-from-string": "^3.3.0",
+    "seed-to-color": "^1.0.4"
   }
 }

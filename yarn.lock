@@ -152,3 +152,8 @@ nanoid@^3.3.4:
   version "3.3.4"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"
   integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
+
+seed-to-color@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/seed-to-color/-/seed-to-color-1.0.4.tgz#5cdc9bf33fc60c8711e7ab0d6c0c4467a6a1156b"
+  integrity sha512-1JNJTQGBddK1Ft8JClCfRmZQtwaG9wJYoWJblrR7x55MFXGA//zTHhd9pFQbEcWGiBjZY8RTWQoyj3qTj7nb0Q==
