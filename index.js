@@ -18,6 +18,6 @@ const { handler } = await importFromString(contents, {
   transformOptions: { loader: "ts" },
 });
 
-const result = await handler();
+const result = handler();
 
 console.log({ result });
